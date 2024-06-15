@@ -1,5 +1,6 @@
 # Hi, I’m @Sujan-Naik
 I am currently in my 3rd year studying a BSc in Computer Science at Kings College University
+
 My interests involve:
   - Web-development
   - Plugin development for Minecraft using the Bukkit API
