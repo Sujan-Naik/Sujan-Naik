@@ -3,12 +3,14 @@ I am currently in my 3rd year studying a BSc in Computer Science at Kings Colleg
 
 My interests involve:
   - Web-development
-  - Plugin development for Minecraft using the Bukkit API
+  - Machine learning
+  - Plugin development for Minecraft using the Bukkit API and Paper API
   - Mod development for Minecraft with Forge
   - Electric Guitar
 
 I have experience with the following:
   - Java
+  - Scala
   - Python
   - C++
   - SQL
