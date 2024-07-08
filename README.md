@@ -5,12 +5,19 @@ I am currently in my 3rd year studying a BSc in Computer Science at Kings Colleg
   - Full-stack web-development
   - Machine learning
   - Game development (mainly Plugin development for Minecraft using the Bukkit API and Paper API)
+  - Robotics
 
-I have experience with the following web development stacks:
+### I have experience with the following web development stacks:
   - The *Django Web Framework*, see my [team and task management project](https://github.com/Sujan-Naik/dingo)
   - The *MERN Stack*, see my [interactive Polling project](https://github.com/Sujan-Naik/poll)
 
-I am currently working on an RPG fantasy adventure project for my Minecraft server:
+
+### See my [robot navigation project](https://github.com/Sujan-Naik/ros-navigator):
+  - An interesting example of using state machines with ROS and object detection to create a home robot
+
+
+
+### I am currently working on an RPG fantasy adventure project for my Minecraft server:
 
 - [SereneWorldGen](https://github.com/SereneOasisMC/SereneWorldGen)
 > Custom procedural world generation
