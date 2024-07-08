@@ -26,6 +26,10 @@ I am currently working on an RPG fantasy adventure project for my Minecraft serv
 
 > Players can interact with them to open a GUI to trade with and accept quests
 
+> Can do everything a player can do, traverse terrain, kill entities, eat food
+
+> WIP adding reinforcement learning
+
 - [SereneAbilities](https://github.com/SereneOasisMC/SereneAbilities)
 > An extremely complex ability system
 
