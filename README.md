@@ -17,7 +17,7 @@ I am currently in my 3rd year studying a BSc in Computer Science at Kings Colleg
 
 
 
-### I am currently working on an RPG fantasy adventure project for my Minecraft server:
+### I am currently working on an RPG fantasy adventure project for my Minecraft server SereneKingdoms:
 
 - [SereneWorldGen](https://github.com/SereneOasisMC/SereneWorldGen)
 > Custom procedural world generation
