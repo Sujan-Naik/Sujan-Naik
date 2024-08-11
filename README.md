@@ -11,6 +11,9 @@ I am currently in my 3rd year studying a BSc in Computer Science at Kings Colleg
   - The *Django Web Framework*, see my [team and task management project](https://github.com/Sujan-Naik/dingo)
   - The *MERN Stack*, see my [interactive Polling project](https://github.com/Sujan-Naik/poll)
 
+### Currently solo-developing a social media platform for developers to showcase projects
+  - "Code-ify" - note this is in progress: [repo](https://github.com/Sujan-Naik/Code-ify/)
+
 ### Professional web-development experience
 - AI Web3 Internship [Smallcap.ai](https://www.linkedin.com/company/smallcapai/posts/?feedView=all)
   - Working on a Vue.js frontend
