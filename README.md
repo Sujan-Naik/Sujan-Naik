@@ -1,10 +1,12 @@
 # Hi, I’m @Sujan-Naik
 I am currently in my 3rd year studying a BSc in Computer Science at Kings College University
 
-## My interests and expertise are in:
+## I am currently working on a Game in Unity for a final year project
+
+## My interests are in:
+  - Game development
   - Full-stack web-development
   - Machine learning
-  - Game development
   - Robotics
 
 ### I have developed full-stack group projects with the following web development stacks:
