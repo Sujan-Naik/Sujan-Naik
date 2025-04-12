@@ -5,7 +5,7 @@ Currently in my 3rd year studying a BSc in Computer Science at Kings College Uni
 *Check out my website [here](https://sujan-naik.github.io/)*
 
 ## My interests are in:
-  - Game development
+  - Game development and design
   - Full-stack web-development
   - Machine learning
   - Large Language models
