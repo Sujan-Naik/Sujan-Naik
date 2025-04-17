@@ -1,42 +1,42 @@
 # Hi, I’m @Sujan-Naik
-I am an aspiring Game and Web Dev.
+I am an aspiring Video Game and Web Dev.
 
-My personal website [here](https://sujan-naik.github.io/)
+My personal website [here](https://sujan-naik.github.io/) *an intuitive static site written in Next.js using Typescript*
 
 Currently in my 3rd year studying a BSc in Computer Science with Artificial Intelligence at Kings College University.
-
-*Check out my personal website [here](https://sujan-naik.github.io/), a static site in Next.js*
 
 # Game Development
 
 ## My first game with an engine, as part of a Knowledge Exchange Project with IBM !
-- *RoboSim Roguelike Scholar* check out my scripts [RoboSim Roguelike Scholar](RoboSim-Roguelike-Scholar)
+- *RoboSim Roguelike Scholar* check out [my scripts](https://github.com/Sujan-Naik/RoboSim-Roguelike-Scholar) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sujan-Naik&repo=RoboSim-Roguelike-Scholar&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/Sujan-Naik/RoboSim-Roguelike-Scholar)
 
 ## My Expansive Fantasy RPG Paper Minecraft Server in Development
-- Check out the Organisation Page: [SonorousMC](https://github.com/SonorousMinecraft) 
+- Check out the Organisation Page: [SonorousMC](https://github.com/SonorousMinecraft)
+  
 The goal is to deliver a feature-rich Gameplay Experience by treating Minecraft as a Game Engine.
+
 > Abilities
 > RPG Skills
 > World Generation
-> NPCs with Dialogue
+> NPCs with Large Language Model Powered Dialogue and complex behaviours
 > Other entities that can make use of Model files (with Block Displays)
-
-### Minecraft Addons
 
 # Web Development
 
 - My Portfolio Website, written using Next.js in typescript [github](https://github.com/Sujan-Naik/sujan-naik.github.io)
 
-## Group Projects from University:
+## Group Web Development projects:
 
-  - The *MERN Stack*, see my [interactive Polling project](https://github.com/Sujan-Naik/poll)
+  - The *MERN Stack*, see my [interactive Polling project github](https://github.com/Sujan-Naik/poll)
+  - It's hosted at [https://poll-anywhere-kappa.vercel.app/](https://poll-anywhere-kappa.vercel.app/)
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sujan-Naik&repo=poll&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/Sujan-Naik/poll)
 
   - The *Django Web Framework*, see my [team and task management project](https://github.com/Sujan-Naik/dingo)
-    
+  - It's hosted at [https://dingo-topaz.vercel.app/](https://dingo-topaz.vercel.app/)
+        
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sujan-Naik&repo=dingo&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/Sujan-Naik/dingo)
 
 ### See my [robot navigation project](https://github.com/Sujan-Naik/ros-navigator):
@@ -51,7 +51,6 @@ The goal is to deliver a feature-rich Gameplay Experience by treating Minecraft 
   - Machine learning
   - Large Language models
   - Robotics
-
 
 
 ## Stats
