@@ -1,5 +1,5 @@
 # Hi, I’m @Sujan-Naik
-I am an aspiring Video Game and Web Dev.
+I am a Video Game and Web Dev.
 
 My personal website [here](https://sujan-naik.github.io/) *an intuitive static site written in Next.js using Typescript*
 
