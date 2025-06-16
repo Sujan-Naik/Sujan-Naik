@@ -1,31 +1,9 @@
 # Hi, I’m @Sujan-Naik
-I am a Video Game and Web Dev.
+I am a Software Engineer, focused primarily on Full-Stack Web Dev. I also am interested in DevOps and Video Game Dev.
 
 My personal website [here](https://sujan-naik.github.io/) *an intuitive static site written in Next.js using Typescript*
 
 Currently in my 3rd year studying a BSc in Computer Science with Artificial Intelligence at Kings College University.
-
-# Game Development
-
-## My first game with an engine, as part of a Knowledge Exchange Project with IBM !
-- *RoboSim Roguelike Scholar* check out [my scripts](https://github.com/Sujan-Naik/RoboSim-Roguelike-Scholar) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sujan-Naik&repo=RoboSim-Roguelike-Scholar&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/Sujan-Naik/RoboSim-Roguelike-Scholar)
-
-## My Expansive Fantasy RPG Paper Minecraft Server in Development
-- Check out the Organisation Page: [SonorousMC](https://github.com/SonorousMinecraft)
-  
-The goal is to deliver a feature-rich Gameplay Experience by treating Minecraft as a Game Engine.
-
-> Abilities
-> 
-> RPG Skills
-> 
-> World Generation
-> 
-> NPCs with Large Language Model Powered Dialogue and complex behaviours
-> 
-> Other entities that can make use of Model files (with Block Displays)
 
 # Web Development
 
@@ -49,12 +27,27 @@ The goal is to deliver a feature-rich Gameplay Experience by treating Minecraft 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sujan-Naik&repo=ros-navigator&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/Sujan-Naik/ros-navigator)
 
 
-## My interests are in:
-  - Game development and design
-  - Full-stack web-development
-  - Machine learning
-  - Large Language models
-  - Robotics
+# Game Development
+
+## My first game with an engine, as part of a Knowledge Exchange Project with IBM !
+- *RoboSim Roguelike Scholar* check out [my scripts](https://github.com/Sujan-Naik/RoboSim-Roguelike-Scholar) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sujan-Naik&repo=RoboSim-Roguelike-Scholar&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/Sujan-Naik/RoboSim-Roguelike-Scholar)
+
+## My Expansive Fantasy RPG Paper Minecraft Server in Development
+- Check out the Organisation Page: [SonorousMC](https://github.com/SonorousMinecraft)
+  
+The goal is to deliver a feature-rich Gameplay Experience by treating Minecraft as a Game Engine.
+
+> Abilities
+> 
+> RPG Skills
+> 
+> World Generation
+> 
+> NPCs with Large Language Model Powered Dialogue and complex behaviours
+> 
+> Other entities that can make use of Model files (with Block Displays)
 
 
 ## Stats
