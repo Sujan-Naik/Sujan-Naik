@@ -35,7 +35,7 @@ Currently in my 3rd year studying a BSc in Computer Science with Artificial Inte
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sujan-Naik&repo=RoboSim-Roguelike-Scholar&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/Sujan-Naik/RoboSim-Roguelike-Scholar)
 
 ## My Expansive Fantasy RPG Paper Minecraft Server in Development
-- Check out the Organisation Page: [SonorousMC](https://github.com/SonorousMinecraft)
+- Check out the Organisation Page: [My Server](https://github.com/SonorousMinecraft)
   
 The goal is to deliver a feature-rich Gameplay Experience by treating Minecraft as a Game Engine.
 
