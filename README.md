@@ -4,6 +4,7 @@ I am a Software Engineer and Video Game Developer.
 I am looking for a Games Related Internship.
 
 My personal website [here](https://sujan.me)
+
 My [LinkedIn](https://www.linkedin.com/in/sujan-naik-69878a312/) 
 
 Currently studying an MSc Computer Games Programming at Goldsmiths University of London. 
