@@ -1,9 +1,6 @@
 # Hi, I’m @Sujan-Naik
-I am a Software Engineer and Video Game Developer.
-
-I specialise in Unity
-
-I am looking for a Games Related Internship or Entry Level position.
+I am a Generalist Game Programmer, Software Engineer and Video Game Developer.
+My fields of interest are Gameplay, Engine, Tooling, Physics, AI (NPC related), Generative AI. 
 
 My personal website [here](https://sujan.me)
 
