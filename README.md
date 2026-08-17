@@ -1,6 +1,7 @@
 # Hi, I’m @Sujan-Naik
 I am a Generalist Game Programmer, Software Engineer and Video Game Developer.
-My fields of interest are Gameplay, Engine, Tooling, Physics, AI (NPC related), Generative AI. 
+
+My fields of expertise include Gameplay, Engine, Tooling, Physics, AI (NPC related), Generative AI. 
 
 My personal website [here](https://sujan.me)
 
