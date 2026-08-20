@@ -3,7 +3,7 @@ I am a Generalist Game Programmer, Software Engineer and Video Game Developer.
 
 My fields of expertise include Gameplay, Engine, Tooling, Physics, AI (NPC related), Generative AI. 
 
-My personal website [here](https://sujan.me)
+My personal website [here](https://www.sujannaik.uk/)
 
 My [LinkedIn](https://www.linkedin.com/in/sujan-naik-69878a312/) 
 
