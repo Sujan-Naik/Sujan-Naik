@@ -1,16 +1,14 @@
 # Hi, I’m @Sujan-Naik
-I am a Generalist Game Programmer, Software Engineer and Video Game Developer.
+Software Engineer specializing in bridging the gap between high-level Application logic and low-level Systems optimization
 
-My fields of expertise include Gameplay, Engine, Tooling, Physics, AI (NPC related), Generative AI. 
+MSc Computer Games Programming from Goldsmith's University of London (Distinction) 
+BSc Computer Science from King's College London 
 
 My personal website [here](https://www.sujannaik.uk/)
 
 My [LinkedIn](https://www.linkedin.com/in/sujan-naik-69878a312/) 
 
-Currently studying an MSc Computer Games Programming at Goldsmiths University of London. 
-
 Play my Games [here](https://sujan-naik.itch.io/)
-
 
 ## Stats
 [![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Naik&show_icons=true&theme=transparent&hide_rank=true)]
