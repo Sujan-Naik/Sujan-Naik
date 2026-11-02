@@ -2,6 +2,7 @@
 Software Engineer specializing in bridging the gap between high-level Application logic and low-level Systems optimization
 
 MSc Computer Games Programming from Goldsmith's University of London (Distinction) 
+
 BSc Computer Science from King's College London 
 
 My personal website [here](https://www.sujannaik.uk/)
